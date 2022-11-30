@@ -3,7 +3,7 @@ import pandas as pd
 import streamlit as st
 
 def main():
-  st.title("Subtraction")
+  st.title("Streamlit Web Application")
   html_temp = """
   <div style="background-color:blue;padding:10px">
   <h2 style="color:white;text-align:center;">Subtraction of 2 numbers</h2>
